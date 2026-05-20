@@ -1,0 +1,12 @@
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\bin\Debug\net10.0\PMS.Domain.deps.json
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\bin\Debug\net10.0\PMS.Domain.dll
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\bin\Debug\net10.0\PMS.Domain.pdb
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\PMS.Domain.csproj.AssemblyReference.cache
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\PMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\PMS.Domain.AssemblyInfoInputs.cache
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\PMS.Domain.AssemblyInfo.cs
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\PMS.Domain.csproj.CoreCompileInputs.cache
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\PMS.Domain.dll
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\refint\PMS.Domain.dll
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\PMS.Domain.pdb
+D:\Work\Freelance\ElectroPi-Backend-Dev-Task\ProjectManagementSystem\PMS.Domain\obj\Debug\net10.0\ref\PMS.Domain.dll

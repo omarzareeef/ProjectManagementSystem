@@ -1,0 +1,26 @@
+services:
+  
+  pms.api:
+    image: ${DOCKER_REGISTRY-}pmsapi
+    build:
+      context: .
+      dockerfile: PMS.API/Dockerfile
+    ports:
+      - "8080:8080"
+    depends_on:
+      - sqlserver
+    environment:
+      ConnectionStrings__Default: "Server=sqlserver;Database=PmsDb;User Id=sa;Password=Strong@Passw0rd;TrustServerCertificate=True;"
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Strong@Passw0rd"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+
+volumes:
+  sql_data:

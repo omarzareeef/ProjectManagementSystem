@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="PMS.API/PMS.API.csproj">
+      <BuildDependency Project="PMS.Application/PMS.Application.csproj" />
+      <BuildDependency Project="PMS.Infrastructure/PMS.Infrastructure.csproj" />
+    </Project>
+    <Project Path="PMS.Application/PMS.Application.csproj">
+      <BuildDependency Project="PMS.Domain/PMS.Domain.csproj" />
+    </Project>
+    <Project Path="PMS.Domain/PMS.Domain.csproj" />
+    <Project Path="PMS.Infrastructure/PMS.Infrastructure.csproj">
+      <BuildDependency Project="PMS.Application/PMS.Application.csproj" />
+      <BuildDependency Project="PMS.Domain/PMS.Domain.csproj" />
+    </Project>
+  </Folder>
+  <Folder Name="/tests/" />
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+</Solution>

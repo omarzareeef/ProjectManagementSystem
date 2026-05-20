@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E5F927-D833-4CE4-819B-20DA4E1C60A6}|PMS.Infrastructure\\PMS.Infrastructure.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.infrastructure\\services\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E5F927-D833-4CE4-819B-20DA4E1C60A6}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\services\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E5F927-D833-4CE4-819B-20DA4E1C60A6}|PMS.Infrastructure\\PMS.Infrastructure.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.infrastructure\\services\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E5F927-D833-4CE4-819B-20DA4E1C60A6}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\services\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E74EF9A-81F3-4313-A3F9-66E6D1C4CE6E}|PMS.API\\PMS.API.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E74EF9A-81F3-4313-A3F9-66E6D1C4CE6E}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E74EF9A-81F3-4313-A3F9-66E6D1C4CE6E}|PMS.API\\PMS.API.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E74EF9A-81F3-4313-A3F9-66E6D1C4CE6E}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E74EF9A-81F3-4313-A3F9-66E6D1C4CE6E}|PMS.API\\PMS.API.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E74EF9A-81F3-4313-A3F9-66E6D1C4CE6E}|PMS.API\\PMS.API.csproj|solutionrelative:pms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E5F927-D833-4CE4-819B-20DA4E1C60A6}|PMS.Infrastructure\\PMS.Infrastructure.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E5F927-D833-4CE4-819B-20DA4E1C60A6}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E5F927-D833-4CE4-819B-20DA4E1C60A6}|PMS.Infrastructure\\PMS.Infrastructure.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E5F927-D833-4CE4-819B-20DA4E1C60A6}|PMS.Infrastructure\\PMS.Infrastructure.csproj|solutionrelative:pms.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B171BBD3-5F70-40D1-884C-BAF97C940E87}|PMS.Domain\\PMS.Domain.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B171BBD3-5F70-40D1-884C-BAF97C940E87}|PMS.Domain\\PMS.Domain.csproj|solutionrelative:pms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B171BBD3-5F70-40D1-884C-BAF97C940E87}|PMS.Domain\\PMS.Domain.csproj|d:\\work\\freelance\\electropi-backend-dev-task\\projectmanagementsystem\\pms.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B171BBD3-5F70-40D1-884C-BAF97C940E87}|PMS.Domain\\PMS.Domain.csproj|solutionrelative:pms.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Infrastructure\\Services\\EmailService\\EmailService.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Services\\EmailService\\EmailService.cs",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Infrastructure\\Services\\EmailService\\EmailService.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Services\\EmailService\\EmailService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:35:47.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Infrastructure\\Services\\AuthService\\AuthService.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Services\\AuthService\\AuthService.cs",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Infrastructure\\Services\\AuthService\\AuthService.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Services\\AuthService\\AuthService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:29:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:51:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PMS.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:22:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "PMS.API\\Program.cs",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.API\\Program.cs",
+              "RelativeToolTip": "PMS.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:13:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-20T00:45:48.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PMS.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.API\\appsettings.Development.json",
+              "RelativeToolTip": "PMS.API\\appsettings.Development.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T00:11:07.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PMS.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PMS.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:55:45.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "PMS.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "PMS.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T22:17:04.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PMS.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Work\\Freelance\\ElectroPi-Backend-Dev-Task\\ProjectManagementSystem\\PMS.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "PMS.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T22:17:03.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
