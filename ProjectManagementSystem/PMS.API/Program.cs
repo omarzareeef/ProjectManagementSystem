@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using PMS.API.Extensions;
+using PMS.API.Filters;
 using PMS.API.Middlewares;
 using PMS.Application;
 using PMS.Infrastructure;
@@ -18,7 +19,12 @@ builder.Services
     .AddAuthorization()
     .AddAppCors(builder.Configuration);
 
-builder.Services.AddControllers();
+builder.Services.AddScoped<ValidationFilter>();
+
+builder.Services.AddControllers(options =>
+{
+    options.Filters.Add<ValidationFilter>();
+});
 
 builder.Services.AddOpenApi();
 

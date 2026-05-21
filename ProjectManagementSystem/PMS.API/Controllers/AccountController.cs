@@ -84,7 +84,7 @@ public class AccountController : AppBaseController
             HttpOnly = true,
             Secure = true,
             SameSite = SameSiteMode.Strict,
-            Expires = DateTime.UtcNow.AddMinutes(_jwtSettings.AccessTokenExpiryMinutes)
+            Expires = DateTime.UtcNow.AddDays(_jwtSettings.RefreshTokenExpiryDays)
         };
 
         var refreshCookieOptions = new CookieOptions
