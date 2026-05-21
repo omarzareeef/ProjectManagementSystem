@@ -136,7 +136,7 @@
 
 
 
-1. I build a clean architecture for its benefits(Maintainability, testability, Separation Of Concern). It is a backend project built with ASP.NET Core 10 Web API with Onion architecture (Domain / Application / Infrastructure / API), EF Core + SQL Server, repository + unit-of-work.
+1\. I build a clean architecture for its benefits(Maintainability, testability, Separation Of Concern). It is a backend project built with ASP.NET Core 10 Web API with Onion architecture (Domain / Application / Infrastructure / API), EF Core + SQL Server, repository + unit-of-work.
 
 
 
